@@ -1,0 +1,17 @@
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\bin\Debug\net8.0-windows\My_Calculator_Manlangit.exe
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\bin\Debug\net8.0-windows\My_Calculator_Manlangit.deps.json
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\bin\Debug\net8.0-windows\My_Calculator_Manlangit.runtimeconfig.json
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\bin\Debug\net8.0-windows\My_Calculator_Manlangit.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\bin\Debug\net8.0-windows\My_Calculator_Manlangit.pdb
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\obj\Debug\net8.0-windows\My_Calculator_Manlangit.Form1.resources
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\obj\Debug\net8.0-windows\My_Calculator_Manlangit.Resources.resources
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\obj\Debug\net8.0-windows\My_Calculator_Manlangit.vbproj.GenerateResource.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\obj\Debug\net8.0-windows\My_Calculator_Manlangit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\obj\Debug\net8.0-windows\My_Calculator_Manlangit.AssemblyInfoInputs.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\obj\Debug\net8.0-windows\My_Calculator_Manlangit.AssemblyInfo.vb
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\obj\Debug\net8.0-windows\My_Calculator_Manlangit.vbproj.CoreCompileInputs.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\obj\Debug\net8.0-windows\My_Calculator_Manlangit.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\obj\Debug\net8.0-windows\refint\My_Calculator_Manlangit.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\obj\Debug\net8.0-windows\My_Calculator_Manlangit.pdb
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\obj\Debug\net8.0-windows\My_Calculator_Manlangit.genruntimeconfig.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\My_Calculator_Manlangit\My_Calculator_Manlangit\obj\Debug\net8.0-windows\ref\My_Calculator_Manlangit.dll
